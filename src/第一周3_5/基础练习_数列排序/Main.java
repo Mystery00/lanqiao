@@ -1,3 +1,10 @@
+/*
+ * Created by Mystery0 on 17-12-10 下午8:09.
+ * Copyright (c) 2017. All Rights reserved.
+ *
+ * Last modified 17-12-10 下午7:01
+ */
+
 package 第一周3_5.基础练习_数列排序;
 
 import java.util.ArrayList;

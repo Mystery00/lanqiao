@@ -1,3 +1,10 @@
+/*
+ * Created by Mystery0 on 17-12-10 下午8:09.
+ * Copyright (c) 2017. All Rights reserved.
+ *
+ * Last modified 17-12-10 下午7:01
+ */
+
 package 第二周3_12.算法训练_摆动序列;
 
 import java.util.Scanner;

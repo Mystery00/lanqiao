@@ -1,3 +1,10 @@
+/*
+ * Created by Mystery0 on 17-12-10 下午8:09.
+ * Copyright (c) 2017. All Rights reserved.
+ *
+ * Last modified 17-12-10 下午7:01
+ */
+
 package 第三周3_19.算法提高_数的划分;
 
 import java.util.Scanner;
